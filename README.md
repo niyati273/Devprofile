@@ -1,5 +1,8 @@
 # DevProfile — GitHub Developer Profile Analyzer
 
+Live Demo: https://devprofile-rho.vercel.app
+GitHub Repository: https://github.com/niyati273/Devprofile
+
 DevProfile is a web application that lets users explore GitHub profiles and analyze public repository data through a simple, minimal interface.
 
 ## Features
